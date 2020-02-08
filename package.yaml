@@ -23,6 +23,11 @@ dependencies:
 - base >= 4.7 && < 5
 - text
 - yaml
+- req
+- mtl
+- text-format
+- aeson
+- time
 - unordered-containers
 
 library:
